@@ -10,8 +10,8 @@
 			selectedValue: '<',
 			atWidth: "@",
 			property: "@",
-			atatRequired: "<?",
-			atDisabled: '<?',
+			atRequired: "<",
+			atDisabled: '<',
 			onChange: '&?'
 		},
 		require: {
